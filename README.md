@@ -6,6 +6,12 @@ Focused on building practical, real-world data solutions through hands-on projec
 
 ---
 
+## Career Objective
+
+To contribute as a data analytics professional by applying analytical, statistical, and visualization skills to deliver meaningful insights and support data-driven decision making in real-world business environments.
+
+---
+
 ## Areas of Interest
 
 - Data Analytics  
@@ -78,11 +84,6 @@ Interactive dashboards developed to analyze datasets and present insights using 
 - Machine learning model improvement  
 - Real-time analytics applications using Streamlit  
 
----
-
-## Career Objective
-
-To contribute as a data analytics professional by applying analytical, statistical, and visualization skills to deliver meaningful insights and support data-driven decision making in real-world business environments.
 
 ---
 
