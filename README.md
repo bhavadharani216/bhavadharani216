@@ -23,33 +23,17 @@ To contribute as a data analytics professional by applying analytical, statistic
 ---
 
 ## Technical Skills
+ 
 
-**Languages**  
-- Python  
-- SQL  
-- Java (Basics)  
+Languages: Python, SQL, Java (Basics)
 
-**Analytics & BI Tools**  
-- Power BI  
-- Microsoft Excel  
+Analytics & BI: Power BI, Microsoft Excel
 
-**Data Science & Statistics**  
-- Exploratory Data Analysis  
-- Descriptive Statistics  
-- Inferential Statistics  
+Data Science: EDA, Descriptive & Inferential Statistics
 
-**Machine Learning**  
-- Linear Regression  
-- Logistic Regression  
+Machine Learning: Linear & Logistic Regression
 
-**Libraries & Tools**  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Git & GitHub  
-- Streamlit  
-- Jupyter Notebook  
-- VS Code  
+Tools & Libraries: Pandas, NumPy, Matplotlib, Git/GitHub, Streamlit, Jupyter, VS Code 
 
 ---
 
@@ -75,15 +59,6 @@ Interactive dashboards developed to analyze datasets and present insights using 
 - Getting Started with Data Analytics on AWS — Coursera (AWS)  
 - PL-300: Power BI for Data Analysis — Infosys Springboard  
 - Projects on Power BI — Infosys Springboard  
-
----
-
-## Currently Learning
-
-- Advanced data analytics techniques  
-- Machine learning model improvement  
-- Real-time analytics applications using Streamlit  
-
 
 ---
 
