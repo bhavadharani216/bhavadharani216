@@ -42,9 +42,6 @@ Tools & Libraries: Pandas, NumPy, Matplotlib, Git/GitHub, Streamlit, Jupyter, VS
 **Loan Approval Prediction**  
 Machine learning project to predict loan approval status using Logistic Regression, including data preprocessing, feature selection, and class imbalance handling. Deployed using Streamlit.
 
-**Forecasting Energy Demand**  
-Predictive analytics project to forecast energy demand using historical data and trend analysis.
-
 **Power BI Dashboards**  
 Interactive dashboards developed to analyze datasets and present insights using effective visualizations.
 
