@@ -1,66 +1,84 @@
-# Bhavadharani G
+#                                                    I am BHAVADHARANI G
 
-Data Analytics and Data Science learner with a strong foundation in analytics, statistics, and business intelligence tools.  
-Interested in transforming raw data into actionable insights through analysis, visualization, and predictive modeling.  
-Focused on building practical, real-world data solutions through hands-on projects.
+### Data Analytics & Data Science Learner
 
----
-
-## Career Objective
-
-To contribute as a data analytics professional by applying analytical, statistical, and visualization skills to deliver meaningful insights and support data-driven decision making in real-world business environments.
+I am passionate about transforming raw data into meaningful insights through analytics, visualization, and predictive modeling. I enjoy solving real-world business problems using data-driven approaches and continuously improving my technical skills.
 
 ---
 
-## Areas of Interest
+## 🎯 Career Objective
 
-- Data Analytics  
-- Data Science  
-- Business Intelligence  
-- Exploratory Data Analysis  
-- Predictive Modeling  
+To contribute as a Data Analytics professional by applying analytical, statistical, and visualization skills to support business decision-making and deliver impactful insights.
 
 ---
 
-## Technical Skills
+## 🚀 Areas of Interest
+
+* Data Analytics
+* Data Science
+* Business Intelligence
+* Exploratory Data Analysis
+* Predictive Modeling
+
+---
+
+## 💻 Technical Skills
+
+### Programming
+
+* Python
+* SQL
+* Java (Basics)
+
+### Analytics & BI
+
+* Power BI
+* Microsoft Excel
+
+### Data Science
+
+* Exploratory Data Analysis (EDA)
+* Descriptive Statistics
+* Inferential Statistics
  
 
-Languages: Python, SQL, Java (Basics)
+### Libraries & Tools
 
-Analytics & BI: Power BI, Microsoft Excel
-
-Data Science: EDA, Descriptive & Inferential Statistics
-
-Machine Learning: Linear & Logistic Regression
-
-Tools & Libraries: Pandas, NumPy, Matplotlib, Git/GitHub, Streamlit, Jupyter, VS Code 
-
----
-
-## Projects
-
-**Loan Approval Prediction**  
-Machine learning project to predict loan approval status using Logistic Regression, including data preprocessing, feature selection, and class imbalance handling. Deployed using Streamlit.
-
-**Power BI Dashboards**  
-Interactive dashboards developed to analyze datasets and present insights using effective visualizations.
+* Pandas
+* NumPy
+* Matplotlib
+* Git & GitHub
+* Streamlit
+* Jupyter Notebook
+* VS Code
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-- Fundamentals of Data Science and Analytics — Coursera  
-- Exploratory Data Analysis for Machine Learning — Coursera  
-- Introduction to Data Analytics — Coursera (IBM)  
-- Data Analytics Job Simulation — Deloitte  
-- Getting Started with Data Analytics on AWS — Coursera (AWS)  
-- PL-300: Power BI for Data Analysis — Infosys Springboard  
-- Projects on Power BI — Infosys Springboard  
+* Fundamentals of Data Science and Analytics
+* Exploratory Data Analysis for Machine Learning
+* Introduction to Data Analytics (IBM)
+* Data Analytics Job Simulation (Deloitte)
+* Getting Started with Data Analytics on AWS
+* PL-300: Power BI for Data Analysis
+* Power BI Projects
 
 ---
 
-## Connect
+## 🌱 Currently Learning
 
+* Advanced SQL
+* Data Visualization
+* Machine Learning
+* Power BI
+* Python for Data Analytics
+
+---
+
+## 📫 Connect With Me
+
+ 
 - GitHub: https://github.com/bhavadharani216  
 - LinkedIn: https://www.linkedin.com/in/bhavadharani-g-333694297/  
-- Email: bhavadharani216@gmail.com  
+- Email: bhavadharanig216@gmail.com  
