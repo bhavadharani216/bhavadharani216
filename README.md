@@ -1,4 +1,10 @@
-#                                                    I am BHAVADHARANI G
+```
+
+BHAVADHARANI G
+AI & DATA SCIENCE
+DATA ANALYTICS | PYTHON | SQL | POWER BI
+
+```
 
 ### Data Analytics & Data Science Learner
 
@@ -75,10 +81,20 @@ To contribute as a Data Analytics professional by applying analytical, statistic
 * Python for Data Analytics
 
 ---
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavadharani216&show_icons=true&theme=tokyonight)
+
+## Github Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavadharani216&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavadharani216&layout=compact&theme=tokyonight)
 
 ## 📫 Connect With Me
 
- 
 - GitHub: https://github.com/bhavadharani216  
 - LinkedIn: https://www.linkedin.com/in/bhavadharani-g-333694297/  
 - Email: bhavadharanig216@gmail.com  
