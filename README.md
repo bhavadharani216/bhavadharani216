@@ -31,16 +31,6 @@
 * Power BI Projects
 
 ---
-
-## 🌱 Currently Learning
-
-* Advanced SQL
-* Data Visualization
-* Machine Learning
-* Power BI
-* Python for Data Analytics
-
----
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavadharani216&show_icons=true&theme=tokyonight)
